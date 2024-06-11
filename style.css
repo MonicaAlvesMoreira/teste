@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+small{
+    display: none;
+}
+
+.body{
+    background: #242933;
+    display: flex;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    align-items: center;
+    justify-content: center;
+    min-height: 100px;
+    border: 0;
+
+}
+.conttainer{
+    color: white;
+    background-color: #2f3644;
+    border-radius: 5px;
+    border: 2px solid #3e445b;
+    width: 450px;
+    max-width: 100;
+
+}
+ 
+.header{
+    padding: 30px 40px;
+    
+}
